@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yurikobd
 - 👀 I’m interested in Condensed Matter Physics
-- 🌱 I’m currently in my 3rd year of Thesis in the Complutense University of Madrid 
+- 🌱 I’m currently doing my PostDoc in the Complutense University of Madrid 
 - 🐦 @yurikoBD on twitter 
 
 <!---

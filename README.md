@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yurikobd
 - 👀 I’m interested in Condensed Matter Physics
-- 🌱 I’m currently doing my PostDoc in the Autonomous University of Madrid/ Ifimac (https://www.ifimac.uam.es/)
+- 🌱 I’m currently doing my PostDoc at the Autonomous University of Madrid/ Ifimac (https://www.ifimac.uam.es/)
 - 🐦 @yurikoBD on twitter 
 
 <!---
